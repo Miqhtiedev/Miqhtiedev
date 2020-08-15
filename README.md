@@ -6,5 +6,10 @@
 - 💬 Ask me about anything
 - ⚡ Fun fact I started playing minecraft in version 1.7
 
+### Socials
+#### 🐦 Twitter 🐦
+https://www.twitter.com/miqhtie
+#### 👍 Discord 👍
+Miqhtie#0001
 #### 💎 Website 💎
 https://www.miqhtie.com
