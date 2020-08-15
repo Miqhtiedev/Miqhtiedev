@@ -2,6 +2,6 @@
 
 
 - 🔭 I’m currently working on a lot of minecraft mods for hypixel
-- 🌱 I’m currently learning website development
+- 🌱 I’m currently learning website development and getting into creating discord bots
 - 💬 Ask me about anything
-- ⚡ Fun fact the first minecraft plugin I made was HunterVSSpeedrunner
+- ⚡ Fun fact I started playing minecraft in version 1.7
