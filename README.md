@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a lot of minecraft mods for hypixel
-- 🌱 I’m currently learning website development and getting into creating discord bots
-- 💬 Ask me about anything
+- Currently working on CalmBot, an open sourced discord bot for the Calm discord (discord.gg/calm) 
 
 ### Socials
 #### 🐦 Twitter 🐦
