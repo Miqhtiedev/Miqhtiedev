@@ -6,7 +6,5 @@
 ### Socials
 #### 🐦 Twitter 🐦
 https://www.twitter.com/miqhtie
-#### 💎 Website 💎
-https://www.miqhtie.com
 #### 👍 Discord 👍
 Miqhtie#0001
