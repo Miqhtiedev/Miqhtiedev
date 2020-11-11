@@ -8,3 +8,5 @@
 https://www.twitter.com/miqhtie
 #### 👍 Discord 👍
 Miqhtie#0001
+
+![Miqhtiedev's github stats](https://github-readme-stats.vercel.app/api?username=miqhtiedev&show_icons=true&theme=cobalt)
