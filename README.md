@@ -13,4 +13,13 @@
 <br />
 
 
+  <summary>Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+<br />
+<br />
+
 ![Miqhtiedev's github stats](https://github-readme-stats.vercel.app/api?username=miqhtiedev&show_icons=true&theme=cobalt)
