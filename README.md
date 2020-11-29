@@ -1,4 +1,4 @@
-### Hi there, I'm Miqhtie. A 14 year old highschooler that loves to code.
+### Hi there, I'm Miqhtie.
 
 ## What I do
 - Currently working on CalmBot, an open sourced discord bot for the Calm discord (discord.gg/calm) 
