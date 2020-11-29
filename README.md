@@ -8,18 +8,4 @@
 ### Connect with me
 - On twitter : <img align="center" width="22px" herf="https://twitter.com/miqhtie" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 
-
-<br />
-<br />
-
-
-## Recent GitHub Activity
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-<br />
-<br />
-
 ![Miqhtiedev's github stats](https://github-readme-stats.vercel.app/api?username=miqhtiedev&show_icons=true&theme=cobalt)
