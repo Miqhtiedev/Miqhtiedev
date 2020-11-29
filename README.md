@@ -13,7 +13,7 @@
 <br />
 
 
-  <summary>Recent GitHub Activity</summary>
+## Recent GitHub Activity
   
 <!--START_SECTION:activity-->
 
