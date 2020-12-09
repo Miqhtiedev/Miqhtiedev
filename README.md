@@ -6,7 +6,7 @@
 - Trying to get better at using the forge api and open source.
 
 ### Connect with me
-- On twitter : <img align="center" width="22px" herf="https://twitter.com/miqhtie" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+- On twitter : twitter.com/miqhtie
 - Email Me: Miqhtiedev@gmail.com
 
 ![Miqhtiedev's github stats](https://github-readme-stats.vercel.app/api?username=miqhtiedev&show_icons=true&theme=cobalt)
