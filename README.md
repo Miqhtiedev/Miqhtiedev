@@ -1,4 +1,4 @@
-### Hi there, I'm Miqhtie.
+### Hi there, I'm Miqhtie!
 
 ## What I do
 - Currently working on projects for @CalmGuild mainly [CalmBot](https://github.com/calmguild/calmbot), an open sourced discord bot for the Calm discord (discord.gg/calm) 
