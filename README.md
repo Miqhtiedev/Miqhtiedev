@@ -8,5 +8,5 @@
 ### Connect with me
 - On twitter: https://twitter.com/miqhtie
 - Email Me: Miqhtiedev@gmail.com
-
+## Stats
 ![Miqhtiedev's github stats](https://github-readme-stats.vercel.app/api?username=miqhtiedev&show_icons=true&theme=cobalt)
