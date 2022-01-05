@@ -3,7 +3,7 @@
 ### 👋 Hi there!!! I'm [Miqhtie](https://twitter.com/miqhtie)
 
 Hi I'm Miqhtie, a developer from New York. <br />
-I am working on [CalmBot](https://github.com/calmguild/calmbot) along with many other things
+I am working on [CalmBot](https://github.com/calmguild/calmbot) along with many other things <br />
 Learning web development with react 
 <br />
 <br />
