@@ -4,7 +4,7 @@
 
 Hi I'm Miqhtie, a developer from New York. <br />
 I am working on [CalmBot](https://github.com/calmguild/calmbot) along with many other things <br />
-Learning web development with react 
+Learning web development with react & remix
 <br />
 <br />
 
