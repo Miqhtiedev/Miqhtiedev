@@ -7,19 +7,8 @@ I am working on [CalmBot](https://github.com/calmguild/calmbot) along with many 
 Learning web development with react & remix
 <br />
 <br />
+<br />
 
-<code><img height="20" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/icons/kotlin.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/icons/java.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/icons/javascript.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/icons/node-dot-js.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/icons/typescript.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/icons/html5.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/icons/css3.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/icons/intellijidea.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/icons/visualstudiocode.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/icons/react.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/icons/linux.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/KodingDev/KodingDev/master/assets/icons/mongodb.svg"></code>
 
 ## Stats
 **Note: Contributions to organizations are not counted** <br />
